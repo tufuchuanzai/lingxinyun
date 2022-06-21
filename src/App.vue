@@ -4,6 +4,7 @@ import Demo from './components/demo.vue'
 
 <template>
   <Demo/>
+  <span> Hello! </span>
 </template>
 
 <style>
